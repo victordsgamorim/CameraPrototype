@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_view_margin">4dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="recycleview_margin">15dp</dimen>
+
+    <dimen name = "imageview_size">200dp</dimen>
+    <dimen name = "activity_note_imageview_height">200dp</dimen>
+    <dimen name = "activity_note_bar_height">5dp</dimen>
+    <dimen name = "activity_note_margin">16dp</dimen>
+    <dimen name = "activity_note_text_size">50sp</dimen>
+</resources>

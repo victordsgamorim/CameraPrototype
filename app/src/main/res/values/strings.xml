@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NativeSnap</string>
+    <string name="activity_note_description">Description</string>
+    <string name="activity_note_title">Text</string>
+</resources>
